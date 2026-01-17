@@ -2,24 +2,24 @@
 
 // 域名映射配置
 const domain_mappings = {
-  'github.com': 'v-gh.',
-  'avatars.githubusercontent.com': 'v-avatars-githubusercontent-com.',
-  'github.githubassets.com': 'v-github-githubassets-com.',
-  'collector.github.com': 'v-collector-github-com.',
-  'api.github.com': 'v-api-github-com.',
-  'raw.githubusercontent.com': 'v-raw-githubusercontent-com.',
-  'gist.githubusercontent.com': 'v-gist-githubusercontent-com.',
-  'github.io': 'v-github-io.',
-  'assets-cdn.github.com': 'v-assets-cdn-github-com.',
-  'cdn.jsdelivr.net': 'v-cdn.jsdelivr-net.',
-  'securitylab.github.com': 'v-securitylab-github-com.',
-  'www.githubstatus.com': 'v-www-githubstatus-com.',
-  'npmjs.com': 'v-npmjs-com.',
-  'git-lfs.github.com': 'v-git-lfs-github-com.',
-  'githubusercontent.com': 'v-githubusercontent-com.',
-  'github.global.ssl.fastly.net': 'v-github-global-ssl-fastly-net.',
-  'api.npms.io': 'v-api-npms-io.',
-  'github.community': 'v-github-community.'
+  'github.com': 'gh.miaizhe.xyz',
+  'avatars.githubusercontent.com': 'avatars-githubusercontent-com.miaizhe.xyz',
+  'github.githubassets.com': 'github-githubassets-com.miaizhe.xyz',
+  'collector.github.com': 'collector-github-com.miaizhe.xyz',
+  'api.github.com': 'api-github-com.miaizhe.xyz',
+  'raw.githubusercontent.com': 'raw-githubusercontent-com.miaizhe.xyz',
+  'gist.githubusercontent.com': 'gist-githubusercontent-com.miaizhe.xyz',
+  'github.io': 'github-io.miaizhe.xyz',
+  'assets-cdn.github.com': 'assets-cdn-github-com.miaizhe.xyz',
+  'cdn.jsdelivr.net': 'cdn.jsdelivr-net.miaizhe.xyz',
+  'securitylab.github.com': 'securitylab-github-com.miaizhe.xyz',
+  'www.githubstatus.com': 'www-githubstatus-com.miaizhe.xyz',
+  'npmjs.com': 'npmjs-com.miaizhe.xyz',
+  'git-lfs.github.com': 'git-lfs-github-com.miaizhe.xyz',
+  'githubusercontent.com': 'githubusercontent-com.miaizhe.xyz',
+  'github.global.ssl.fastly.net': 'github-global-ssl-fastly-net.miaizhe.xyz',
+  'api.npms.io': 'api-npms-io.miaizhe.xyz',
+  'github.community': 'github-community.miaizhe.xyz'
 };
 
 // 需要重定向的路径
